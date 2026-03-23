@@ -58,7 +58,7 @@ IP 정보: ipconfig /all
 관리자 권한: net session, net start 및 기타 시스템 레벨의 정보를 수집하기 위해 스크립트를 관리자 권한으로 실행해야 합니다.
 
 
-Sysinternals Suite: 스크립트가 pslist , listdlls , handle  명령어를 사용합니다. 이 도구들은 Windows 기본 명령어가 아니므로, Microsoft의 Sysinternals Suite를 다운로드해야 합니다.
+Sysinternals Suite: 스크립트가 pslist , listdlls , handle  명령어를 사용합니다. 이 도구들은 Windows 기본 명령어가 아니므로, Microsoft의 Sysinternals Suite를 다운로드해야 합니다.(현재는 업로드 중이므로 그대로 다운로드하여 사용 가능)
 
 
 
